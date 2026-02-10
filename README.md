@@ -3,7 +3,6 @@
 Meu nome é Sabrina Lazdenas
 
 - Sou estudante no [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem JaavaScript
 - Ultilizo esse espaço para a organização e compartilhamentos dos meus prjetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📫
