@@ -3,7 +3,7 @@
 
 ### **Estudante de Engenharia de Software**
 
-Olá! Me chamo Sabrina Almeida Lazdenas, tenho 19 anos e sou de São paulo. Atualmente, estou cursando Graduação em Engenharia de Software na UNISA. Sou praticante de tecnologia e estou em constante aprendizado para construir soluções eficientes e inovadoras.
+Olá! Eu me chamo Sabrina Almeida Lazdenas, tenho 19 anos e sou de São paulo. Atualmente, estou cursando Graduação em Engenharia de Software na UNISA. Sou praticante de tecnologia e estou em constante aprendizado para construir soluções eficientes e inovadoras.
 
 
 <p align="left">
