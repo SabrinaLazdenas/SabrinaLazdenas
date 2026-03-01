@@ -1,9 +1,9 @@
 
 # 👩🏻‍💻 Sabrina Lazdenas
 
-### **Estudante de Engenharia de Software**
+### **Estudante de Engenharia de Software** 🛜
 
-Olá! Eu me chamo Sabrina Almeida Lazdenas, tenho 19 anos e sou de São paulo. Atualmente, estou cursando Graduação em Engenharia de Software na UNISA. Sou praticante de tecnologia e estou em constante aprendizado para construir soluções eficientes e inovadoras.
+Olá! Eu me chamo Sabrina Almeida Lazdenas, tenho 19 anos e sou de São Paulo. Atualmente, estou cursando Graduação em Engenharia de Software na UNISA. Sou praticante de tecnologia e estou em constante aprendizado para construir soluções eficientes e inovadoras.
 
 
 <p align="left">
@@ -27,6 +27,7 @@ Olá! Eu me chamo Sabrina Almeida Lazdenas, tenho 19 anos e sou de São paulo. A
         title="Total de estrelas GitHub" 
         src="https://custom-icon-badges.demolab.com/github/stars/SabrinaLazdenas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
     />
+</a>
 <a href="https://github.com/SabrinaLazdenas?tab=followers">
     <img 
         alt="Seguidores" 
@@ -35,14 +36,13 @@ Olá! Eu me chamo Sabrina Almeida Lazdenas, tenho 19 anos e sou de São paulo. A
     />
 </a>
 </p>
-        
----
+          
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SabrinaLazdenas/SabrinaLazdenas/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SabrinaLazdenas/SabrinaLazdenas/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SabrinaLazdenas/SabrinaLazdenas/output/github-contribution-grid-snake.svg">
 </picture>
-
+<br/>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -101,6 +101,22 @@ Olá! Eu me chamo Sabrina Almeida Lazdenas, tenho 19 anos e sou de São paulo. A
 <br/>
 <br/>
 
+### 📚 Estudos e Evolução
+* 🎓 Cursando o 1º semestre de Engenharia de Software na UNISA.
+* 🐍 **Python**: Já possuo uma base sólida e utilizo para automação e lógica.
+* 🌐 **Redes de Computadores**: Entendendo protocolos (TCP/IP, HTTP), camadas e como a internet funciona.
+* 🏗️ **Arquitetura de Computadores**: Estudando como o hardware e o software se comunicam (processadores, memória, binários).
+* 💻 Focada em aprender: **Lógica de Programação**, **Web Design** e **Redes de Computadores**.
+* 📖 **Inglês**: Nível A2 básico para leitura e conversação.
+
+### 🏆 Conquistas e Certificações
+
+* 🥇 **Premiada na CUCO (Competição USP de Conhecimentos)**: Olimpíada organizada pela USP que premia o desempenho acadêmico e o conhecimento geral.
+<br/>
+
 ### Você pode entrar em contato comigo 📫
-⮕ Instagram: @SabrinaLazdenas <br/>
-⮕ gmail: Sabrina.almeida.lazdenas.2006@gmail.com
+
+**⮕ Vamos trocar ideias sobre tecnologia?** <br/> 
+* **Instagram:** [@SabrinaLazdenas](https://www.instagram.com/SabrinaLazdenas)
+* **Gmail:** [Sabrina.almeida.lazdenas.2006@gmail.com](mailto:Sabrina.almeida.lazdenas.2006@gmail.com)
+<br/>
