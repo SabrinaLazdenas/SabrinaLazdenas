@@ -29,11 +29,11 @@ Olá! Eu me chamo Sabrina Almeida Lazdenas, tenho 19 anos e sou de São Paulo. A
     />
 </a>
 <a href="https://github.com/SabrinaLazdenas?tab=followers">
-    <img 
-        alt="Seguidores" 
-        title="Me siga no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/followers/SabrinaLazdenas?color=8A2BE2&labelColor=6A1B9A&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
+<img
+    alt="Seguidores"
+    title="Me siga no GitHub"
+    src="https://custom-icon-badges.demolab.com/github/followers/SabrinaLazdenas?color=8A2BE2&labelColor=6A1B9A&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&cache=1"
+/>
 </a>
 </p>
           
