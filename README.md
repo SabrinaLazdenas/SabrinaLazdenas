@@ -102,7 +102,7 @@ Olá! Eu me chamo Sabrina Almeida Lazdenas, tenho 19 anos e sou de São Paulo. A
 <br/>
 
 ### 📚 Estudos e Evolução
-* 🎓 Cursando o 1º semestre de Engenharia de Software na UNISA.
+* 🎓 Cursando o 2º semestre de Engenharia de Software na UNISA.
 * 🐍 **Python**: Já possuo uma base sólida e utilizo para automação e lógica.
 * 🌐 **Redes de Computadores**: Entendendo protocolos (TCP/IP, HTTP), camadas e como a internet funciona.
 * 🏗️ **Arquitetura de Computadores**: Estudando como o hardware e o software se comunicam (processadores, memória, binários).
