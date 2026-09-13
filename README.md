@@ -118,5 +118,5 @@ Olá! Eu me chamo Sabrina Almeida Lazdenas, tenho 19 anos e sou de São Paulo. A
 
 **⮕ Vamos trocar ideias sobre tecnologia?** <br/> 
 * **Instagram:** [@SabrinaLazdenas](https://www.instagram.com/SabrinaLazdenas)
-* **Gmail:** [Sabrina.almeida.lazdenas.2006@gmail.com](mailto:Sabrina.almeida.lazdenas.2006@gmail.com)
+* 
 <br/>
