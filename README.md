@@ -14,27 +14,27 @@ Olá! Eu me chamo Sabrina Almeida Lazdenas, tenho 19 anos e sou de São Paulo. A
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
+    <a href="mailto:Sabrina.almeida.lazdenas.2006@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Envie um e-mail" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
     <a href="https://github.com/SabrinaLazdenas?tab=repositories&sort=stargazers">
-    <img 
-        alt="Total de estrelas" 
-        title="Total de estrelas GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/SabrinaLazdenas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas&v=2"
-    />
-</a>
-    <a href="https://github.com/SabrinaLazdenas?tab=repositories&sort=stargazers">
-    <img 
-        alt="Total de estrelas" 
-        title="Total de estrelas GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/SabrinaLazdenas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
-</a>
-<a href="https://github.com/SabrinaLazdenas?tab=followers">
-<img
-    alt="Seguidores"
-    title="Me siga no GitHub"
-    src="https://custom-icon-badges.demolab.com/github/followers/SabrinaLazdenas?color=8A2BE2&labelColor=6A1B9A&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&cache=1"
-/>
-</a>
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/SabrinaLazdenas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas&v=2"
+        />
+    </a>
+    <a href="https://github.com/SabrinaLazdenas?tab=followers">
+        <img
+            alt="Seguidores"
+            title="Me siga no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/SabrinaLazdenas?color=8A2BE2&labelColor=6A1B9A&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&v=2"
+        />
+    </a>
 </p>
           
 <picture>
