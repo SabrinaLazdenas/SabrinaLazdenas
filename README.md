@@ -14,11 +14,11 @@ Olá! Eu me chamo Sabrina Almeida Lazdenas, tenho 19 anos e sou de São Paulo. A
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="mailto:Sabrina.almeida.lazdenas.2006@gmail.com">
+    <a href="https://github.com/SabrinaLazdenas?tab=repositories&sort=stargazers">
     <img 
-        alt="Gmail" 
-        title="Envie um e-mail" 
-        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="Total de estrelas" 
+        title="Total de estrelas GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/stars/SabrinaLazdenas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas&v=2"
     />
 </a>
     <a href="https://github.com/SabrinaLazdenas?tab=repositories&sort=stargazers">
