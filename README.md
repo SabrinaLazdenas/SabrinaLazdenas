@@ -2,9 +2,10 @@
 # 👩🏻‍💻 Sabrina Lazdenas
 
 ### **Estudante de Engenharia de Software** 🛜
+Olá, sejam bem-vindos!
 
-Olá! Eu me chamo Sabrina Almeida Lazdenas, tenho 19 anos e sou de São Paulo. Atualmente, estou cursando Graduação em Engenharia de Software na UNISA. Sou praticante de tecnologia e estou em constante aprendizado para construir soluções eficientes e inovadoras.
-
+Meu nome é Sabrina e atualmente sou estudante de Engenharia de Software na Universidade Santo Amaro (UNISA).
+Neste perfil, compartilho meus projetos, aprendizados e experiências com novas tecnologias ao longo da minha jornada na área de tecnologia. Tenho interesse em desenvolvimento de software e cybersecurity com o objetivo de desenvolver soluções eficientes e seguras.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/sabrina-lazdenas-63868a305">
